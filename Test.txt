@@ -942,6 +942,7 @@ AddScriptButton("Dixyland", "https://pastefy.app/nSgkDrE0/raw", order) order = o
 AddSectionHeader("OTHER", order) order = order + 1
 AddScriptButton("Whyborn", "https://pastefy.app/lND8cWtT/raw", order) order = order + 1
 AddScriptButton("INF YEILD", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", order) order = order + 1
+AddScriptButton("FAKE PURCHASE", "https://pastefy.app/Ow3Ibi7U/raw", order) order = order + 1
 
 SearchBox:GetPropertyChangedSignal("Text"):Connect(function()
     local query = string.lower(SearchBox.Text)
