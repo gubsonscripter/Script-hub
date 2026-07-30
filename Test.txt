@@ -937,6 +937,7 @@ AddScriptButton("Get Your Avatar! ✨", "https://pastefy.app/IUL0xlQK/raw", orde
 AddScriptButton("Earn UGC Obby (AFK or play)", "https://pastefy.app/SU7cvcP3/raw", order) order = order + 1
 AddScriptButton("[Free UGC] Nutty Wizards ✨RNG✨", "https://pastefy.app/Sm8CeKpb/raw", order) order = order + 1
 AddScriptButton("FREE UGC Grind 2 (Obby • PvP • AFK)", "https://pastefy.app/SUHwyvoE/raw", order) order = order + 1
+AddScriptButton("Dixyland", "https://pastefy.app/nSgkDrE0/raw", order) order = order + 1
 
 AddSectionHeader("OTHER", order) order = order + 1
 AddScriptButton("Whyborn", "https://pastefy.app/lND8cWtT/raw", order) order = order + 1
