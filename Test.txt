@@ -926,7 +926,7 @@ end
 local order = 1
 AddSectionHeader("INSTANT UGC", order) order = order + 1
 AddScriptButton("Tower  of misery", "https://pastebin.com/raw/nFuqw4aA", order) order = order + 1
-AddScriptButton("GoGo Climbing [Obby Team]", "", order) order = order + 1
+AddScriptButton("GoGo Climbing [Obby Team]", "https://pastefy.app/3aXlq5fq/raw", order) order = order + 1
 
 AddSectionHeader("EASY UGC", order) order = order + 1
 AddScriptButton("AFK For UGC 🎃", "https://pastefy.app/GTTskdF2/raw", order) order = order + 1
