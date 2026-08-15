@@ -931,6 +931,7 @@ AddScriptButton("GoGo Climbing [Obby Team]", "https://pastefy.app/3aXlq5fq/raw",
 AddSectionHeader("EASY UGC", order) order = order + 1
 AddScriptButton("AFK For UGC 🎃", "https://pastefy.app/GTTskdF2/raw", order) order = order + 1
 AddScriptButton("MUSINSA STREET", "https://pastefy.app/JF6PKooD/raw", order) order = order + 1
+AddScriptButton("[NEW] Taro Land: Merdeka Fest", "https://pastefy.app/78MgOu8a/raw", order) order = order + 1
 
 AddSectionHeader("GRINDY UGC", order) order = order + 1
 AddScriptButton("AVL: The Show 2", "https://pastefy.app/veON2ePW/raw", order) order = order + 1
